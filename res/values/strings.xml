@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Note</string>
+    <string name="action_settings">Settings</string>
+    <string name="texthint">texthint</string>
+    <string name="lock">lock</string>
+ 
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Note</string>
+    <string name="edit_text_hint">Enter your text here.</string>
+    <string name="toast_cant_save">Unable to save note. Is there sufficient space?</string>
+    <string name="toast_cant_load">Unable to load saved file. </string>
+    <string name="title_activity_image">Passpoints Image</string>
+    <string name="password_image">Password Image</string>
+    <string name="saving_passpoints">Storing passpoints ...</string>
+    <string name="create_passpoints">Create Your Passpoint Sequence</string>
+    <string name="create_passpoints_text">Touch four points on the image to set the passpoint sequence. You must click the same points in future to gain access to your notes.</string>
+    <string name="checking_passpoints">Checking passpoints ...</string>
+    <string name="access_denied">Access denied.</string>   
+    <string name="menu_passpoints_reset">Reset Passpoints</string>
+    <string name="enter_passpoints_title">Login</string>
+    <string name="enter_passpoints_text">You can now log in by re-entering your passpoints.</string>
+    <string name="menu_replace_image">Replace image...</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="browse_the_gallery">Browse gallery ...</string>
+    <string name="unable_to_load_photo_file">Unable to load photo file.</string>
+    <string name="change">You have made a change</string>
+    <string name="replace_lock_image">Replace Lock Image</string>
+    
+    
+    
+    <color name="backstyle1">#DEB887</color>
+    
+    <style name="ButtonText">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">#ffffff</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_margin">3dp</item>
+    <item name="android:textSize">30sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:shadowColor">#000000</item>
+    <item name="android:shadowDx">1</item>
+    <item name="android:shadowDy">1</item>
+    <item name="android:shadowRadius">2</item>
+	</style>
+	
+    <color name="backstyle2">#DEB887</color>
+    <style name="ButtonText2">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">#ffffff</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_margin">3dp</item>
+    <item name="android:textSize">14sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:shadowColor">#000000</item>
+    <item name="android:shadowDx">1</item>
+    <item name="android:shadowDy">1</item>
+    <item name="android:shadowRadius">2</item>
+	</style>
+	
+    <color name="backstyle3">#FFFFFF</color>
+    <style name="Text3">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">#000000</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_margin">3dp</item>
+    <item name="android:textSize">14sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:shadowColor">#000000</item>
+    <item name="android:shadowDx">0</item>
+    <item name="android:shadowDy">0</item>
+    <item name="android:shadowRadius">0</item>
+	</style>
+    <string name="title">Title</string>
+    <string name="body_text">Body Text</string>
+    <string name="save">Save</string>
+    <string name="cut">Cut</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="nonotes">No New Notes, Press on Menu to Add New Note</string>
+    <string name="missingnote">No Notes...</string>
+    <string name="delete">delete</string>
+    <string name="failure1">Please fill out the column Title with text</string>
+    <string name="failure2">Please fill out the column Body with text</string>
+
+  
+
+</resources>
